@@ -9,8 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <InternalsVisibleTo Include="ContentModeration.Tests" />
     <InternalsVisibleTo Include="ContentSafe.Tests" />
     <InternalsVisibleTo Include="ServiceAppLibAPI.AdvancedUnit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ContentModeration.Tests\**" />
+    <EmbeddedResource Remove="ContentModeration.Tests\**" />
+    <None Remove="ContentModeration.Tests\**" />
   </ItemGroup>
 
   <ItemGroup>

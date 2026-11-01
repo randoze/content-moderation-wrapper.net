@@ -1,0 +1,35 @@
+# English direct self-harm encouragement & ideation (guards against Azure classifier false negatives)
+kill yourself
+go kill yourself
+kys
+hang yourself
+slit your wrists
+i want to kill myself
+i will kill myself
+# Tagalog / Cebuano self-harm encouragement and ideation (severity 6 = Violation by default)
+# English direct self-harm encouragement & ideation (guards against Azure classifier false negatives)
+kill yourself
+go kill yourself
+kys
+hang yourself
+slit your wrists
+i want to kill myself
+i will kill myself
+# Tagalog
+magpakamatay ka na
+magpakamatay ka
+magbigti ka na
+maglaslas ka na
+magpakamatay na lang ako
+magpapakamatay na ako
+gusto ko nang mamatay
+maglalaslas ako
+naglaslas ako
+magbibigti ako
+# Cebuano / Bisaya
+pakamatay na lang ka
+magpakamatay na lang ko
+mamatay na lang ko
+gusto na nako mamatay
+magbitay ko
+patyon nako akong kaugalingon

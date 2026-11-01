@@ -1,0 +1,68 @@
+# Tagalog / Cebuano / Taglish profanity and abusive expletives (severity 4 = Violation by default)
+# One term or phrase per line. Matching is case-insensitive and performed by Azure AI Content Safety.
+# Tagalog
+putang ina
+putang ina mo
+putangina
+putangina mo
+puta ka
+tang ina
+tang ina mo
+tangina
+tangina mo
+tanginamo
+potangina
+potang ina
+pukingina
+puking ina
+pukingina mo
+puking ina mo
+pukingina mo ka
+puking ina mo ka
+pukingina ka
+puking ina ka
+pukinginamo
+pukinginaka
+pota
+puta
+putragis
+ampota
+amputa
+kingina
+king ina
+inamo
+gago
+gaga
+gago ka
+tarantado
+tarantada
+ulol
+ulul
+punyeta
+punyemas
+leche
+letse
+pakshet
+pakyu
+pak yu
+hayop ka
+hinayupak
+kupal
+nakakaputangina
+# Cebuano / Bisaya
+yawa
+yawaa
+yawa ka
+pisti
+piste
+pisteng yawa
+giatay
+giatay ka
+animal ka
+litse
+linti
+bilat sa imong inahan
+bilat sa imong mama
+# Ilocano
+ukininam
+ukinnam

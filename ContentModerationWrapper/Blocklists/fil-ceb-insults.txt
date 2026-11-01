@@ -1,0 +1,20 @@
+# Tagalog / Cebuano mild insults (severity 2 = PotentiallyHarmful by default)
+bobo
+bobo ka
+tanga
+tanga ka
+inutil
+engot
+siraulo
+ungas
+gunggong
+bugok
+timang
+abnoy
+bwisit
+buwisit
+lintik
+buang ka
+boang ka
+bogo
+amaw

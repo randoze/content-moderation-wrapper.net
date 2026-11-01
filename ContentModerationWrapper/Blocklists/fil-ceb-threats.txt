@@ -1,0 +1,63 @@
+# English direct threats (guards against Azure AI classifier false negatives where short threats score severity 0)
+i will kill you
+i'll kill you
+ill kill you
+i will murder you
+i'll murder you
+i will hunt you down
+i am going to kill you
+i'm going to kill you
+im going to kill you
+i will slit your throat
+i will shoot you
+i will stab you
+i will end your life
+i will end you
+you will die today
+# Tagalog / Cebuano threats of violence (severity 6 = Violation by default)
+# English direct threats (guards against Azure AI classifier false negatives where short threats score severity 0)
+i will kill you
+i'll kill you
+ill kill you
+i will murder you
+i'll murder you
+i will hunt you down
+i am going to kill you
+i'm going to kill you
+im going to kill you
+i will slit your throat
+i will shoot you
+i will stab you
+i will end your life
+i will end you
+you will die today
+# Tagalog
+papatayin kita
+papatayin ko kayo
+papatayin ko siya
+papatayin ko ikaw
+patayin kita
+ipapapatay kita
+babarilin kita
+babarilin ko kayo
+sasaksakin kita
+sasaksakin ko kayo
+gigilitan kita
+tatagain kita
+bubugbugin kita
+uubusin ko kayo
+susunugin ko bahay mo
+humanda ka sa akin
+mamatay ka na
+# Cebuano / Bisaya
+patyon tika
+patyon ta ka
+patyon tamo
+patyon tika karon
+ipapatay tika
+pusilon tika
+dunggabon tika
+tigbason tika
+tigbasan tika
+bunalan tika
+sunogon nako inyong balay

@@ -1,0 +1,7 @@
+# Tagalog / Cebuano hate speech and identity-based slurs (severity 4 = Violation by default)
+# Neutral identity words (e.g. "bakla", "bayot", "muslim") are intentionally NOT listed to avoid false positives.
+intsik baboy
+tsekwa
+unggoy ka
+mga unggoy
+mongoloid
